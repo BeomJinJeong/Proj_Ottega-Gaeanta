@@ -3,7 +3,6 @@
 
 # <img src="https://user-images.githubusercontent.com/58909226/139459983-d2ec3a58-bcf7-480d-b0b7-e44263daae8e.png" alt="image-20211029182657119" width="30" height="30"/> **Ottega Gaeanta**
 
----
 
 옷을 어떻게 입을지 몰라 고민하는 사람들을 위해 120만건의 여성 패션 데이터를 기반한 Look-Book 서비스입니다.
 
@@ -82,3 +81,15 @@
 
 ![image](https://user-images.githubusercontent.com/58909226/139460031-105ea783-914d-4e40-a7c6-2e0c846479bf.png)
 
+#### CI/CD
+- commit을 하게 되면 GitLab에서 Jenkins 서버로 hook을 날립니다.
+- Jenkins 서버에서 프로젝트의 jar파일을 제작합니다.
+- Ottega-Gaeanta 메인 서버로 배포합니다.
+
+#### Hadoop
+- AIhub (https://aihub.or.kr/aidata/7988) 에서 획득한 120만건의 여성 패션 데이터
+- 필요하지 않은 Attribute는 제거
+- 한글로 되어 있는 Attribute 네이밍을 영어로 변경
+
+#### Mask R-CNN
+- MaskRCNN-Modanet-Fashion-Segmentation-and-Classification Link ([https://github.com/zekeriyyaa/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification](https://github.com/zekeriyyaa/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification))
