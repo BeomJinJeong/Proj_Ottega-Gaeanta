@@ -92,4 +92,4 @@
 - 한글로 되어 있는 Attribute 네이밍을 영어로 변경
 
 #### Mask R-CNN
-- MaskRCNN-Modanet-Fashion-Segmentation-and-Classification Link ([https://github.com/zekeriyyaa/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification](https://github.com/zekeriyyaa/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification))
+- MaskRCNN-Modanet-Fashion-Segmentation-and-Classification Link (https://github.com/zekeriyyaa/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification)
