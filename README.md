@@ -61,17 +61,17 @@
 
     - Flask Model Server
 
-​      - MaskRCNN Model(Tensorflow), Pillow Library
+    ​    - MaskRCNN Model(Tensorflow), Pillow Library
 
-​      - Docker Flask Server
+    ​    - Docker Flask Server
 
-  ​    - MaskRCNN Model 사용하여 상의, 하의, 아우터, 드레스 분리
+    ​    - MaskRCNN Model 사용하여 상의, 하의, 아우터, 드레스 분리
 
-  ​    - Pillow Library 사용하여 색 추출
+    ​    - Pillow Library 사용하여 색 추출
 
-  ​    - {“outer”:”beige”,"dress":"skyblue","pants":"","top":""} → Json 형식
+    ​    - {“outer”:”beige”,"dress":"skyblue","pants":"","top":""} → Json 형식
 
-  ​    - Flask Server README.md Link ([https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/tree/develop/backend/Flask Server](https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/tree/develop/backend/Flask%20Server))
+    ​    - Flask Server README.md Link ([https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/tree/develop/backend/Flask Server](https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/tree/develop/backend/Flask%20Server))
 
 **-** **Hadoop**
 
