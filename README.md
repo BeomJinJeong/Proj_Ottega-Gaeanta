@@ -2,7 +2,7 @@
 
 
 
-**# <img src="https://www.notion.so/54dbb77ae9784a0faa8500940c245ed2#e940c20b46f94ba098dafd96b592ff3c" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
+**# <img src="![image](https://user-images.githubusercontent.com/58909226/139459611-164c633f-8975-45ff-8068-e5b2f8124512.png)" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
 
 ---
 
