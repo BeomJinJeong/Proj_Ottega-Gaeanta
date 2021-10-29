@@ -2,7 +2,7 @@
 
 
 
-**# <img src="https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/raw/develop/frontend/src/assets/hanger.png" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
+**# <img src="https://www.notion.so/54dbb77ae9784a0faa8500940c245ed2#2392c67e2b0543b19685faf75d468f22" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
 
 ---
 
@@ -81,5 +81,5 @@
 
 ## 프로젝트 구조
 
-![image-20211029235314752](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211029235314752.png)
+![image-20211029235314752](https://www.notion.so/54dbb77ae9784a0faa8500940c245ed2#e940c20b46f94ba098dafd96b592ff3c)
 
