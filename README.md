@@ -2,7 +2,7 @@
 
 
 
-** <img src="https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/raw/develop/frontend/src/assets/hanger.png" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
+**# <img src="https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/raw/develop/frontend/src/assets/hanger.png" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
 
 ---
 
