@@ -1,8 +1,7 @@
 # Ottega-Gaeanta 서버는 2021.10.15 이후로 비활성화 하였습니다.
+---
 
-
-
-**# <img src="![image](https://user-images.githubusercontent.com/58909226/139459611-164c633f-8975-45ff-8068-e5b2f8124512.png)" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
+**# <img src="https://user-images.githubusercontent.com/58909226/139459718-eb0589b9-9d77-421e-aa12-246d90da604a.png" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
 
 ---
 
