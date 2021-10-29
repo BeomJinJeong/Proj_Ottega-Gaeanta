@@ -1,7 +1,7 @@
 # Ottega-Gaeanta 서버는 2021.10.15 이후로 비활성화 하였습니다.
 ---
 
-**# <img src="https://user-images.githubusercontent.com/58909226/139459718-eb0589b9-9d77-421e-aa12-246d90da604a.png" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
+**# <img src="https://user-images.githubusercontent.com/58909226/139459983-d2ec3a58-bcf7-480d-b0b7-e44263daae8e.png" alt="image-20211029182657119" width="30" height="30"/> Ottega Gaeanta**
 
 ---
 
@@ -80,5 +80,5 @@
 
 ## 프로젝트 구조
 
-![image-20211029235314752](https://www.notion.so/54dbb77ae9784a0faa8500940c245ed2#e940c20b46f94ba098dafd96b592ff3c)
+![image](https://user-images.githubusercontent.com/58909226/139460031-105ea783-914d-4e40-a7c6-2e0c846479bf.png)
 
