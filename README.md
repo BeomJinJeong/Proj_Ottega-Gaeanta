@@ -69,7 +69,7 @@
 
     ​    - {“outer”:”beige”,"dress":"skyblue","pants":"","top":""} → Json 형식
 
-    ​    - Flask Server README.md Link ([https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/tree/develop/backend/Flask Server](https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/tree/develop/backend/Flask%20Server))
+    ​    - ([Flask Server README.md Link](https://lab.ssafy.com/s05-bigdata-dist/S05P21B206/-/tree/develop/backend/Flask%20Server))
 
 **-** **Hadoop**
 
@@ -92,4 +92,5 @@
 - 한글로 되어 있는 Attribute 네이밍을 영어로 변경
 
 #### Mask R-CNN
-- MaskRCNN-Modanet-Fashion-Segmentation-and-Classification Link (https://github.com/zekeriyyaa/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification)
+- ([MaskRCNN-Modanet-Fashion-Segmentation-and-Classification]https://github.com/zekeriyyaa/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification)
+- 
