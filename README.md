@@ -9,7 +9,7 @@
 
 - 총 개발 기간 : 6주
 - 팀원 : 5명
-- 맡은 역할 : ???
+- 맡은 역할 : [BE] Spring-boot Project 생성과 설정 및 검색, 평가 기능 REST API 구현
 
 ---
 
@@ -21,13 +21,13 @@
   - 입력한 선호 스타일을 기반하여 스타일 사진 목록 검색 기능 제공
   - 120만건의 데이터를 보여주기 전에, 많은 양의 데이터를 전처리하는데 Hadoop 사용 (이후 상세히 설명)
     ![image](https://sulfuric-wanderer-110.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F41a8ada8-ff9f-47aa-b53a-b8beea2d8f94%2FUntitled.png?table=block&id=6e393998-f289-4053-ab5f-5189c5c6413f&spaceId=5c928159-e10a-4899-bd21-9a5fc39423d3&width=1200&userId=&cache=v2)
-      ![image](https://sulfuric-wanderer-110.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc516a2e0-e6e1-4593-9776-79d8f55bfc29%2FUntitled.png?table=block&id=7d82a82e-966d-4fd5-9e28-59c5d0e255d8&spaceId=5c928159-e10a-4899-bd21-9a5fc39423d3&width=1280&userId=&cache=v2)
+  - <img src="https://sulfuric-wanderer-110.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fca25744f-3de8-47a4-8485-94b8efd5cd2d%2F%EA%B2%80%EC%83%89.png?table=block&id=b789b004-e30f-431e-b9ff-0d51ef784d49&spaceId=5c928159-e10a-4899-bd21-9a5fc39423d3&width=2000&userId=&cache=v2" alt="image-20211029182657119" width="600"/> 
 
 **2. 스타일 색 조합 평가**
 
   - 사용자의 의상을 색 조합에 따라 등급화하여 보여주는 패션 평가 서비스
   - 웹캠을 활용한 방식과 이미지 업로드를 활용한 방식 두 가지를 지원
-  - Mask R-CNN 모델을 사용하여 이미지의 상/하의 객체 인식 후, Pillow lib를 사용하여 평균 색 추출 (이후 상세히 설명)
+  - Mask R-CNN 모델을 사용하여 이미지의 상/하의 객체 인식 후, Pillow lib를 사용하여 평균 색 추출
   - 프로젝트 내의 개별적인 색 조합 등급표 기준으로 사용자의 색 조합 평가
     ![image](https://sulfuric-wanderer-110.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa50239bc-c0b2-4e7d-8173-f59cf3888060%2FUntitled.png?table=block&id=a4a8f268-b7f7-42e9-ac47-89382dc52a7f&spaceId=5c928159-e10a-4899-bd21-9a5fc39423d3&width=1510&userId=&cache=v2) 
 
@@ -35,10 +35,16 @@
 **3. 패피티아이**
 
   - MBTI + 패션 피플의 합성어
+
   - 사용자의 옷을 입는 스타일과 행동 성향을 파악할 수 있는 간단한 질문지를 통해 패션 성향을 알아보는 서비스
+
   - 13개의 질문으로 구성되어 있으며 모든 질문에 대한 답안을 선택하면 10개의 스타일 캐릭터 중 가장 점수가 높은 캐릭터로 결과 반환
+
   - 카카오톡 공유로, 결과 페이지 공유 가능
-    ![image](https://sulfuric-wanderer-110.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F60cbe924-cb81-44fb-abab-e2259daf4f43%2FUntitled.png?table=block&id=e5b1bdaa-d0f2-430b-9e3d-2ded288a2fd3&spaceId=5c928159-e10a-4899-bd21-9a5fc39423d3&width=1490&userId=&cache=v2)
+
+  - <img src="https://sulfuric-wanderer-110.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61144a0b-ee77-4d66-9f88-d8e6cffaabab%2FFPTI.png?table=block&id=623dc022-9c54-4398-bb5e-e796f358306c&spaceId=5c928159-e10a-4899-bd21-9a5fc39423d3&width=2000&userId=&cache=v2" alt="image-20211029182657119" width="750" style="float:left"/>
+
+    
 
 ---
 
