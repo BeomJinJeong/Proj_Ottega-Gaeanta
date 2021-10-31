@@ -1,0 +1,5 @@
+backend/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification/model1/mask_rcnn_Modanet.h5 filter=lfs diff=lfs merge=lfs -text
+backend/MaskRCNN-Modanet-Fashion-Segmentation-and-Classification/model2/mask_rcnn_Season.h5 filter=lfs diff=lfs merge=lfs -text
+hadoop/hadoop-3.2.2/share/hadoop/tools/lib/aws-java-sdk-bundle-1.11.563.jar filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
